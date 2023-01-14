@@ -4,27 +4,57 @@
 		"movementType": "Land"
 	},
 	{
-		"name": "Scrapper", // Melee
+		"name": "Scrapper",
+        "uniques": [
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		],
 		"movementType": "Land"
 	},
 	{
-		"name": "Shooter", // Ranged
+		"name": "Shooter",
+		 "uniques": [
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		],
 		"movementType": "Land"
 	},
 	{
 		"name": "Scout",
+		"uniques": [
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		],
 		"movementType": "Land"
 	},
 	{
 		"name": "Mounted",
+		"uniques": [
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		],
 		"movementType": "Land"
 	},
 	{
 		"name": "Armor",
+		 "uniques": [
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		],
 		"movementType": "Land"
 	},
 	{
 		"name": "Siege",
+		"uniques": [
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		],
 		"movementType": "Land"
 	},
 	{
@@ -34,11 +64,21 @@
 	{
 		"name": "Melee Water",
 		"movementType": "Water",
-		"uniques": ["Can move after attacking"]
+		"uniques": [
+			"Can move after attacking",
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		]
 	},
 	{
 		"name": "Ranged Water",
-		"movementType": "Water"
+		"movementType": "Water",
+		"uniques": [
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		]
 	},
 	{
 		"name": "Submarine",
@@ -46,27 +86,49 @@
 		"uniques": [
 			"Can enter ice tiles",
 			"Invisible to non-adjacent units",
-			"Can see invisible [Submarine] units"
+			"Can see invisible [Submarine] units",
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
 		]
 	},
 	{
 		"name": "Aircraft Carrier",
+		"uniques": [
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		],
 		"movementType": "Water"
 	},
 	{
 		"name": "Fighter",
 		"movementType": "Air",
-		"uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles"]
+		"uniques": [
+			"Aircraft",
+			"[+4] Sight",
+			"Can see over obstacles",
+			"Can perform Air Sweep",
+			"Cannot intercept [Missile] units"
+		]
 	},
 	{
 		"name": "Bomber",
 		"movementType": "Air",
-		"uniques": ["Aircraft"]
+		"uniques": [
+			"Aircraft",
+			"Cannot intercept [Missile] units"
+		]
 	},
 	{
 		"name": "Missile",
 		"movementType": "Air",
-		"uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+		"uniques": [
+			"Self-destructs when attacking",
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		]
 	},
 	{
 		"name": "Helicopter",
@@ -74,7 +136,27 @@
 		"uniques": [
 			"Can pass through impassable tiles",
 			"All tiles cost 1 movement",
-			"No defensive terrain bonus"
+			"No defensive terrain bonus",
+			"Ignores Zone of Control",
+			"Can see over obstacles",
+			"Defense bonus when embarked",
+			"Normal vision when embarked",
+			"Eliminates combat penalty for attacking across a coast",
+			"Eliminates combat penalty for attacking over a river",
+			"May attack when embarked",
+			"[1] Movement point cost to disembark",
+			"[1] Movement point cost to embark",
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		]
+	},
+	{
+		"name": "Missile Defense",
+		"movementType": "Air",
+		"uniques": [
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units"
 		]
 	}
 ]
