@@ -1,3 +1,15 @@
+## 5.1.0 - 04/27/2022
+
+Moddable victory now implemented
+
+New traits for water units
+
+Removed traces of deprecated terrains
+
+## 5.0.2 - 04/02/2022
+
+Helicopter units can now move and attack on water just like on land
+
 ## 5.0.1 - 03/27/2022
 
 added Space Station Wreckage (art by Indonesian Gentleman) and Salvage Space Station
