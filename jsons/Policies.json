@@ -698,7 +698,6 @@
 				"uniques": [
 					"[+10]% [Food] from every [Coal Plant]",
 					"[-15]% [Production] from every [Coal Plant]",
-					"[+10]% [Production] from every [Recycling Plant]",
 					"[+1 Happiness] from every [Recycling Plant]",
 					"[+1 Happiness] from every [Carbon Capture]"
 				],
@@ -749,9 +748,9 @@
 			{
 				"name": "Ecology Complete",
 				"uniques": [
-					"Free Great Person",
 					"Empire enters golden age",
-					"[50]% Golden Age length"
+					"[50]% Golden Age length",
+					"May buy [Great Farmer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
 				]
 			}
 		]

@@ -103,7 +103,8 @@
 		"type": "Pantheon",
 		"uniques": [
 			"[+1 Culture] from every [Tree plantation]",
-			"[+1 Culture] from every [Farm]"
+			"[+1 Culture] from every [Farm]",
+			"[+1 Culture] from every [Factory farm]"
 		]
 	},
 	{
@@ -152,6 +153,13 @@
             "[+1 Food, +1 Production, +1 Gold, +1 Happiness, +1 Faith, +1 Science, +1 Culture] from every [Bomb Shelter]"
         ]
     },
+	{
+		"name": "Works of Genius",
+		"type": "Pantheon",
+		"uniques": [
+			"[+3 Faith] from every [Great Improvement]"
+		]
+	}
 
 	// Follower beliefs
 	{
@@ -254,6 +262,13 @@
 		"type": "Founder",
 		"uniques": ["[+2 Gold] for each global city following this religion"]
 	},
+	{
+		"name": "Great Awakening",
+		"type": "Founder",
+		"uniques": [
+			"[+2 Science, +1 Culture] for each global city following this religion"
+		]
+	}
 	{
 		"name": "Initiation Rites",
 		"type": "Founder",

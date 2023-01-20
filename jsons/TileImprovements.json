@@ -8,6 +8,7 @@
 			"Can also be built on tiles adjacent to fresh water",
 			"[+1 Food, -1 Gold] from [Fresh water] tiles",
 			"[+1 Food] <after discovering [Land Remediation]>",
+			"[+1 Food] for each adjacent [Factory farm]",
 			"Cannot be built on [Fissure] tiles",
 			"Pillaging this improvement yields approximately [+10 Gold]"
 		],
@@ -324,7 +325,8 @@
 			"Desert",
 			"Hill",
 			"Tundra",
-			"Permafrost"
+			"Permafrost",
+			"Swamp"
 		],
 		"turnsToBuild": 4,
 		"uniques": [
@@ -341,7 +343,8 @@
 			"Desert",
 			"Hill",
 			"Tundra",
-			"Permafrost"
+			"Permafrost",
+			"Swamp"
 		],
 		"turnsToBuild": 6,
 		"techRequired": "Engineering",
