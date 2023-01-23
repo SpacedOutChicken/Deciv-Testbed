@@ -57,7 +57,7 @@
 			"Occurs at temperature between [0.5] and [0.7] and humidity between [0.7] and [0.8]",
 			"Occurs at temperature between [0.9] and [1] and humidity between [0] and [0.2]",
 			"Occurs at temperature between [0.8] and [0.9] and humidity between [0.2] and [0.6]",
-			"Occurs at temperature between [0.7] and [0.8] and humidity between [0.3] and [0.4]",
+			//"Occurs at temperature between [0.7] and [0.8] and humidity between [0.3] and [0.4]", //overlaps with desert, removed
 			"Occurs at temperature between [0.6] and [0.8] and humidity between [0.6] and [0.7]",
 			"[+4] to Fertility for Map Generation",
 			"A Region is formed with at least [30]% [Badlands] tiles, with priority [6]",
@@ -80,7 +80,7 @@
 			"Occurs at temperature between [-0.8] and [-0.5] and humidity between [0.6] and [0.8]",
 			"Occurs at temperature between [-0.7] and [-0.4] and humidity between [0.4] and [0.6]",
 			"Occurs at temperature between [-0.6] and [-0.4] and humidity between [0.2] and [0.4]",
-			"Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]",
+			//"Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]", //overlaps with fissure, removed
 			"[+2] to Fertility for Map Generation",
 			"A Region is formed with at least [30]% [Tundra] tiles and [Permafrost] tiles, with priority [1]",
 			"Considered [Desirable] when determining start locations",
@@ -96,9 +96,10 @@
 		"RGB": [230, 230, 113],
 		"uniques": [
 			"Occurs at temperature between [0.4] and [0.5] and humidity between [0] and [0.2]",
-			"Occurs at temperature between [0.2] and [0.8] and humidity between [0.2] and [0.4]",
+			"Occurs at temperature between [0.2] and [0.8] and humidity between [0.2] and [0.4]", //overlaps with badlands, gave this spot to desert
 			"Occurs at temperature between [0.4] and [0.6] and humidity between [0.4] and [0.5]",
 			"Occurs at temperature between [0.5] and [0.6] and humidity between [0.5] and [0.7]",
+			"Occurs at temperature between [0.1] and [0.2] and humidity between [0.2] and [0.3]", //plugging gap
 			"[+1] to Fertility for Map Generation",
 			"A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
 			"Considered [Desirable] when determining start locations",
@@ -159,9 +160,9 @@
 		"RGB": [231, 242, 249],
 		"uniques": [
 			"Occurs at temperature between [-1] and [-0.9] and humidity between [0] and [1]",
-			"Occurs at temperature between [-0.9] and [-0.8] and humidity between [0] and [0.8]",
-			"Occurs at temperature between [-0.8] and [-0.7] and humidity between [0] and [0.6]",
-			"Occurs at temperature between [-0.7] and [-0.6] and humidity between [0] and [0.4]",
+			"Occurs at temperature between [-0.9] and [-0.8] and humidity between [0.2] and [0.8]", //overlaps with fissure, gave to fissure
+			"Occurs at temperature between [-0.8] and [-0.7] and humidity between [0.2] and [0.6]", //overlaps with fissure, gave to fissure
+			"Occurs at temperature between [-0.7] and [-0.6] and humidity between [0.2] and [0.4]", //overlaps with fissure, gave to fissure
 			"Considered [Undesirable] when determining start locations",
 			"Every [17] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
