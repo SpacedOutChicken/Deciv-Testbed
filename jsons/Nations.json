@@ -134,7 +134,7 @@
 			"[Low Tech] units gain the [Urban Warfare I] promotion",
 			"[Personnel] units gain the [Urban Warfare I] promotion",
 			"[-20]% [Science] [in all cities] <before discovering [Education]>",
-			"[-10]% [Culture] [in all cities] <before discovering [Civil Service]>",
+			"Starts with [Collectivism] adopted",
 			"[+1 Faith] [in all cities] <with [1] to [2] neighboring [Jungle] tiles>",
 			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [Jungle] tiles>",
 			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
@@ -320,6 +320,7 @@
 			"[+50]% [Happiness] from City-States",
 			"[+50]% [Production] from City-States",
 			"Military Units gifted from City-States start with [+10] XP",
+			"City-State territory always counts as friendly territory",
 			"[Great General] is earned [33]% faster",
 			"Starts with [Redomestication]",
 			"Cannot build [Enslaved] units",
@@ -566,6 +567,8 @@
 			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
 			"[-33]% maintenance costs <for [Land] units>",
 			"Starts with [Redomestication]",
+			"Starts with [Supremacy] adopted",
+			"Empire enters golden age <upon conquering a city> <after adopting [Supremacy Complete]>",
 			"[-1 Science] [in all cities] <before discovering [Writing]>"
 		],
 		"cities": [
@@ -635,7 +638,7 @@
 			"[+1 Culture, +1 Faith] from every [Strategic resource]",
 			"[+10]% [Culture] from every [Coal Plant]",
 			"[-1 Science] [in all cities] <before discovering [Writing]>",
-			"[100]% Production when constructing [Grand Temple of Ignis] wonders [in all cities] <after adopting [Theocracy Complete]>"
+			"Gain a free [Founder] belief <upon adopting [Theocracy Complete]>"
 		],
 		"cities": [
 			"Gastown",
@@ -699,6 +702,8 @@
 			"Enables [All] units to enter ocean tiles",
 			"[1] Movement point cost to disembark <for [All] units>",
 			"Defense bonus when embarked <for [All] units>",
+			"Normal vision when embarked <for [All] units>",
+			"[+1] Sight <for [Water] units>",
 			"[{Land} {Low Tech}] units gain the [Amphibious] promotion",
 			"[{Land} {Personnel}] units gain the [Amphibious] promotion",
 			"Starts with [Sailing]"
@@ -747,7 +752,9 @@
 		"uniques": [
 			"[+10]% Strength <within [2] tiles of a [City center]>",
 			"Enemy [Land] units must spend [1] extra movement points when inside your territory",
-			"Starts with [Secrets of the Past]"
+			"Starts with [Secrets of the Past]",
+			"Starts with [Redomestication]",
+			"[+20]% Strength <when fighting units from a Civilization with more Cities than you> <after adopting [Sovereignty Complete]>"
 		],
 		"cities": [
 			"Gao",
@@ -813,7 +820,7 @@
 		"attacked": "May you be forgiven.",
 		"defeated": "There is still time... Brother",
 		"outerColor": [0, 0, 0],
-		"innerColor": [143, 24, 53],
+		"innerColor": [159, 58, 83],
 		"cities": ["Jerome Abbey"]
 	},
 	{
@@ -850,7 +857,8 @@
 		"uniques": [
 			"Damage is ignored when determining unit Strength <for [All] units>",
 			"Cannot build [Armor] units",
-			"Cannot build [Siege] units"
+			"Cannot build [Siege] units",
+			"Cannot build [Helicopter] units"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -869,6 +877,7 @@
 			"Damage is ignored when determining unit Strength <for [All] units>",
 			"Cannot build [Armor] units",
 			"Cannot build [Siege] units",
+			"Cannot build [Helicopter] units",
 			"[Personnel] units gain the [Guerilla Warfare I] promotion",
 			"[Personnel] units gain the [Guerilla Warfare II] promotion",
 			"[{Land} {Low Tech}] units gain the [Guerilla Warfare I] promotion",
@@ -964,7 +973,8 @@
 		"uniques": [
 			"Damage is ignored when determining unit Strength <for [All] units>",
 			"Cannot build [Armor] units",
-			"Cannot build [Siege] units"
+			"Cannot build [Siege] units",
+			"Cannot build [Helicopter] units"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Your desire for power will only bring you suffering.",
@@ -981,7 +991,6 @@
 		"uniques": [
 			"Starts with [Land Remediation]",
 			"Starts with [Ecology]",
-			"[+1 Food, +2 Production, +1 Gold] from every [Tree plantation]",
 			"[+100]% Strength <for [All] units> <within [2] tiles of a [Tree plantation]>",
 			"[25] HP when healing <within [2] tiles of a [Tree plantation]>"
 		],
@@ -1013,7 +1022,7 @@
 		"name": "Barbarians",
 		"style": "Barbarians",
 		"outerColor": [0, 0, 0],
-		"innerColor": [182, 0, 0],
+		"innerColor": [185, 12, 12],
 		"uniques": ["[-33]% Strength <vs cities> <before discovering [Steam Power]>"]
 	}
 ]

@@ -177,6 +177,10 @@
 				"name": "Ecology",
 				"row": 3,
 				"prerequisites": ["Education", "Botany"],
+				"uniques": [
+					"[+1 Food] from every [Wasteland] <with [1] to [6] neighboring [Lakes] tiles>",
+					"[+1 Food] from every [Badlands] <with [1] to [6] neighboring [Lakes] tiles>"
+				],
 				"quote": "Modern industrial farming is largely a strategy for turning fossil fuels into food."
 			},
 			{
@@ -579,7 +583,7 @@
 	},
 	{
 		"columnNumber": 17,
-		"era": "New Future era",
+		"era": "Singularity era",
 		"techCost": 35000,
 		"buildingCost": 750,
 		"wonderCost": 2000,

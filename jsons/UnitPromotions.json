@@ -346,7 +346,7 @@
 	{
 		"name": "Reconnaissance III",
 		"prerequisites": ["Reconnaissance II"],
-		"uniques": ["[+1] Movement", "[+50]% Strength <vs [Siege] units>"],
+		"uniques": ["[+1] Movement", "[+50]% Strength <vs [Siege] units>", "Ignores Zone of Control"],
 		"unitTypes": ["Scrapper", "Shooter", "Scout", "Mounted"],
 		"column": 5,
 		"row": 3
@@ -1129,12 +1129,7 @@
 		"name": "Portable Power Cell",
 		"uniques": [
 			"[+50] HP when healing <within [1] tiles of a [City center]>",
-			"[+50] HP when healing <within [1] tiles of a [Crystal Refinery]>",
-			"[+50] HP when healing <within [1] tiles of a [C1F3 Refinery]>",
-			"[+50] HP when healing <within [1] tiles of a [C2N14 Refinery]>",
-			"[+50] HP when healing <within [1] tiles of a [C8H17 Refinery]>",
-			"[+50] HP when healing <within [1] tiles of a [SbF5 Refinery]>",
-			"[+50] HP when healing <within [1] tiles of a [VX Refinery]>",
+			"[+50] HP when healing <within [1] tiles of a [Refinery]>",
 			"[+50] HP when healing <within [1] tiles of a [Solar collector]>",
 			"[+50] HP when healing <within [1] tiles of a [Wind farm]>"
 		],
@@ -1155,6 +1150,7 @@
 	{
 		"name": "[Ranger] ability",
 		"uniques": [
+			"Great General",
 			"[+20]% Strength <when fighting in [Friendly Land] tiles>",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"[50]% XP gained from combat",
@@ -1171,5 +1167,13 @@
 		],
 		"column": 6,
 		"row": 11
+	},
+	{
+		"name": "[Big Rig] ability",
+		"uniques": [
+			"[+15]% Strength bonus for [Military] units within [2] tiles <vs cities>"
+		],
+		"column": 6,
+		"row": 12
 	}
 ]

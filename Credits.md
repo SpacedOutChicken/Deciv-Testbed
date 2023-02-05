@@ -9,8 +9,8 @@ Lots and lots of pixel art, including Rubble, Ruins, tile improvements, and unit
 Base terrains by [AdityaMH](https://github.com/AdityaMH)<br>
 May contain art by [LynxRo](https://github.com/lynxro)<br>
 Borough and Hexlock art by [Sullien](https://github.com/Sullien)<br>
-Mining Pit art by ekids789789#4813 on Discord
-Space Station Wreckage, Quadcopter Drone, Modular island, and Artificial glacier pixel art by [Indonesian Gentleman](https://www.instagram.com/indonesian_gentleman_portfolio/), AKA [greensniperhat](https://www.fiverr.com/greensniperhat/draw-science-fiction-and-fantasy-stuff)
+Mining Pit art by ekids789789#4813 on Discord<br>
+Space Station Wreckage, Quadcopter Drone, Modular island, and Artificial glacier pixel art by [Indonesian Gentleman](https://www.instagram.com/indonesian_gentleman_portfolio/), AKA [greensniperhat](https://www.fiverr.com/greensniperhat/draw-science-fiction-and-fantasy-stuff)<br>
 Some minor edits made by me
 
 
@@ -20,6 +20,7 @@ Buildings:
 * Aluminum Smelter: [Metallurgy](https://thenounproject.com/icon/metallurgy-2078841/) by Template, TH
 * Arcology Dome: [dome](https://thenounproject.com/term/dome/945836/) by Lluisa Iborra, ES
 * Arcology Project: [City](https://thenounproject.com/term/city/2488561/) by iconcheese
+* Bike Path: [Bike Path](https://thenounproject.com/icon/bike-path-6276/) by Iconathon, US
 * Black Site: [jail](https://thenounproject.com/term/jail/2585095/) by Zach Bogart, US
 * Biosphere Project: [biosphere](https://thenounproject.com/icon/biosphere-4146798/) by Cuputo, ID
 * Bunker: [Bunker](https://thenounproject.com/icon/bunker-1189654/) by Salaidinovich, TR
@@ -30,13 +31,15 @@ Buildings:
 * Fusion Reactor: [Nuclear Reactor](https://thenounproject.com/term/nuclear-reactor/4110972/) by Robert Bjurshagen, SE
 * Greywater Treatment Plant: [Water Filter](https://thenounproject.com/icon/water-filter-1929073/) by Vectors Market
 * Listening Post: [peeping tom](https://thenounproject.com/term/peeping-tom/38344/) by Luis Prado, US
+* Medical Network: [medical symbol](https://thenounproject.com/icon/medical-symbol-4224166/) by VectorsLab, PK
 * Mining Operation: [canyon](https://thenounproject.com/icon/canyon-3005193/) by iconfield, ID
 * Mobile Encampment: [camp](https://thenounproject.com/icon/camp-3242188/) by Vectors Point, PK
 * Moonshinery: [Moonshine](https://thenounproject.com/icon/moonshine-1923/) by Andrew Nielsen, AU
 * Open the Vault: [Cave](https://thenounproject.com/icon/cave-1842205/) by Bakunetsu Kaito
 * Pit of Sacrifice: [Mass Grave](https://thenounproject.com/icon/mass-grave-75126/) by Dan Hetteix, US
 * Publishing House: [Bookstore](https://thenounproject.com/icon/bookstore-3658621/) by AmruID, ID
-* Rainwater Purifier [Filter Water](https://thenounproject.com/icon/filter-water-3923269/) by denimao, ID
+* Rainwater Purifier: [Filter Water](https://thenounproject.com/icon/filter-water-3923269/) by denimao, ID
+* Reactivate Underwater City: [rising sea level](https://thenounproject.com/icon/rising-sea-level-4197935/) by Eucalyp
 * Reclamation Vats: [compostable](https://thenounproject.com/icon/compostable-107010/) by Luca Reghellin, IT
 * Refugee Center: [Refugee Camp](https://thenounproject.com/icon/refugee-camp-2120771/) by OCHA Visual, US
 * Research Underwater City: [Flood](https://thenounproject.com/icon/flood-159584/) by seuk eumeu, FR
@@ -53,7 +56,13 @@ Buildings:
 * Virtual Tabernacle: [virtual space](https://thenounproject.com/icon/virtual-space-4718206/) by Rolas Design, ID
 
 Policies:
+* Cybernetics: [cyborg](https://thenounproject.com/icon/cyborg-406675/) by ImageCatalog, RU
 * Entrepreneurship: [Entrepreneur](https://thenounproject.com/term/entrepreneur/2338644/) by Kiran Shastry, IN
+* Eugenics: [join](https://thenounproject.com/icon/join-295758/) by Michal Kučera
+* Weather Engineering: [weather](https://thenounproject.com/icon/weather-3203994/) by Adrien Coquet, FR
+
+Promotions:
+* Powered Armor: [Power Glove](https://thenounproject.com/icon/power-glove-118878/) by Robert Bjurshagen, SE
 
 Religions:
 * Objectivism: based on [Spray](https://thenounproject.com/icon/spray-2975166/) by Grafix Point, PK
@@ -78,10 +87,11 @@ Units:
 * Black Ops: [cloth](https://thenounproject.com/icon/cloth-1948963/) by Eucalyp
 * Censor: [Blind](https://thenounproject.com/icon/blind-2139794/) by Nubaia Karim Barsha
 * Corvette: [warship](https://thenounproject.com/term/warship/1806952/) by Abdul Wahhab
+* Drop Troops: [jetpack](https://thenounproject.com/icon/jetpack-3394735/) by Nhor
 * Exo-Trooper: [space marine](https://thenounproject.com/icon/space-marine-118870/) by Robert Bjurshagen, SE 
 * Forward Observer: [Motorcycle](https://thenounproject.com/icon/motorcycle-1578797/) by Abdul Wahhab
 * Gravity Turret: [Tank](https://thenounproject.com/icon/tank-3679624/) by Vectorstall, PK
-* Heavy Carrier: [Aircraft Carrier](https://thenounproject.com/icon/aircraft-carrier-9271/) by Luke Anthony Firth, GB
+* Heavy Carrier: [Aircraft Carrier](https://thenounproject.com/icon/aircraft-carrier-4133107/) by Amethyst Studio, TH
 * Hovercraft: [Hovercraft](https://thenounproject.com/icon/hovercraft-30739/) by Theresa Stoodley, US
 * Jet Boat: [Jet Ski](https://thenounproject.com/term/jet-ski/1676951/) by Mello
 * Jetsuit: [jetpack](https://thenounproject.com/icon/jetpack-3529977/) by iconnect, ID
@@ -90,7 +100,6 @@ Units:
 * Purge Robot: [space marine](https://thenounproject.com/icon/space-marine-118882/) by Robert Bjurshagen, SE 
 * Quadcopter Drone: [Quadcopter](https://thenounproject.com/icon/quadcopter-2003189/) by kareemov1000, ID
 * Slave Trader: [boss](https://thenounproject.com/icon/boss-990401/) by DinosoftLab
-* Smuggler: [agent](https://thenounproject.com/icon/agent-977763/) by Gan Khoon Lay
 * Stasis Cruiser: [warship](https://thenounproject.com/icon/warship-3863470/) by Andrejs Kirma, LV
 * Stealth Fighter: [F-22](https://thenounproject.com/icon/f-22-751638/) by RomanP, US
 * Torpedo Boat: [speedboat](https://thenounproject.com/icon/speedboat-2713601/) by Silviu Ojog, RO
@@ -104,13 +113,19 @@ Tile improvements:
 Icons:
 * Faith icon: [Thought](https://thenounproject.com/term/thought/608383/) by Hea Poh Lin, MY 
 
-Actions:
-* Suppress Thought (Remove Heresy): [Silence](https://thenounproject.com/icon/silence-1656685/) by luca fruzza, GR
+## From Flaticon
+
+Buildings:
+* International Trade Center: [Industry](https://www.flaticon.com/free-icon/industry_48566) by Freepik
+
 
 ## From Wikimedia Commons
 
 Nations:
 * New Afrika: [Fist](https://commons.wikimedia.org/wiki/File:Fist.png)
+
+Policies:
+* Mutagens: [GHS-pictogram-silhouette](https://commons.wikimedia.org/wiki/File:GHS-pictogram-silhouette.svg)
 
 Technologies:
 * Decontamination: [Biohazard symbol](https://commons.wikimedia.org/wiki/File:Biohazard_symbol.svg)
