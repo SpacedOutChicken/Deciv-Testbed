@@ -666,22 +666,6 @@
 			"Generated near City States with weight [10]"
 		]
 	},
-	{
-		"name": "Monoliths",
-		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Badlands", "Desert", "Tundra", "Hill"],
-		"improvedBy": ["Mine", "Borehole"],
-		"food": -1,
-		"gold": -1,
-		"production": -1,
-		"improvementStats": { "culture": 1, "gold": 2, "food": 1, "production": 2 },
-		"uniques": [
-			"Generated with weight [15] <in [Desert] Regions>",
-			"Generated with weight [30] <in [Badlands] Regions>",
-			"Generated with weight [15] <in [Tundra] Regions>",
-			"Generated near City States with weight [10]"
-		]
-	},
 	//Hexlock Unique
 	{
 		"name": "C1F3",

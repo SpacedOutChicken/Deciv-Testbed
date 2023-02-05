@@ -41,7 +41,6 @@
 		"uniques": [
 			"[+1 Production] <after discovering [Steam Power]>",
 			"[+1 Production] <after discovering [Railroads]>",
-			"Cannot be built on [Monoliths] tiles <before discovering [Decontamination]>",
 			"Obsolete with [Advanced Materials]",
 			"Pillaging this improvement yields approximately [+10 Gold]"
 		],
