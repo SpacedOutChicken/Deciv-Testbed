@@ -1631,6 +1631,7 @@
 		"faith": 10,
 		"food": -2,
 		"requiredTech": "Civil Service",
+		"uniqueTo": "Cult of Ignis",
 		"replaces": "Grand Monastery",
 		"uniques": [
 			"Requires a [Altar of Ignis] in all cities",
